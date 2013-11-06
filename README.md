@@ -1,7 +1,6 @@
-IF ANY ONE STEALS THIS AND USES THIS FOR CLASS 
-JORGE MENDOZA WILL NOT BE HELD RESPONSIBLE! 
+Used for program 3 not really 4 
 
-I PUT MY STUFF IN A FREE PLACE IF ANY ONE TAKES IT AND USES IT FOR THEIR OWN 
-THAT ISN'T MY PROBLEM
+This is particle system used in animation class csc474 with professor Buckalew 
+
 csc474program4
 ==============
